@@ -39,6 +39,7 @@ For this, you need to work in group of three (you will be shared into groups). D
 Kindly drop your name, email and github account username on this [link](https://docs.google.com/forms/d/1HvIx83UFEkVX1Uqnddk3_Tg0IkpvvGk4DJaQY8YjUgA/edit)
 
 **N.B** Both Personal and Group Assignment is due in 1 week (the 5th of September 2024)
+Submit the assignment with this [Assignment Submission Link](https://docs.google.com/forms/d/15Gm-56XhsAvzed0cRV-gBFEG8xaTl3egmG-iPJWz5X0/edit). I wish you all Goodluck
 
 
 
