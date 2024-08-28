@@ -1,4 +1,5 @@
 
+# Individual Assignment
 You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEngineers infrastructure is based on the Linux Operating System. Your manager has tasked you with the responsibility of managing the company’s data infrastructure and version control tool.
 
 1. Your manager has assigned you the task of building a Bash script that performs a simple ETL process:
@@ -30,4 +31,14 @@ You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEng
      - /* Provide a table that shows the region for each sales rep along with their associated accounts. Your final table should include three columns: the region name, the sales rep name, and the account name. Sort the accounts alphabetically (A-Z) by account name. */
 
 Document the solutions to these questions using a well-detailed GitHub README file. Upload all scripts into a folder named `Scripts`. Inside the `Scripts` folder, create separate folders to store the Bash scripts and SQL scripts. Push all work to GitHub (do not push the CSV files). Ensure that you do not push directly to the master branch but instead merge to master via a pull request (you should know what to do). Additionally, create an architectural diagram of the ETL pipeline as requested by your manager.
+
+
+## Group Assignment 
+For this, you need to work in group of three (you will be shared into groups). Design a Powerpoint with any insight that you got from the Posey database tables, do an exploratory analysis on the tables and come up with a Presentation for your manager. Give your group a name and choose a  single person github account to document your insights (as images and text) and also to upload your powerpoint files (all members are to contribute to the repository, through pull requests i.e each member should have different branches) 
+
+Kindly drop your name, email and github account username on this [link](https://docs.google.com/forms/d/1HvIx83UFEkVX1Uqnddk3_Tg0IkpvvGk4DJaQY8YjUgA/edit)
+
+**N.B** Both Personal and Group Assignment is due in 1 week (the 5th of September 2024)
+
+
 
