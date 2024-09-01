@@ -3,6 +3,8 @@
 # Set environment variable for the CSV file URL
 export CSV_URL="https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv"
 
+
+
 # Step 1: Extract
 echo "Starting the extraction process..."
 
@@ -19,6 +21,8 @@ else
   echo "Failed to download the file."
   exit 1
 fi
+
+
 
 # Step 2: Transform
 echo "Starting the transformation process..."
@@ -49,6 +53,8 @@ else
   exit 1
 fi
 
+
+
 # Step 3: Load
 echo "Starting the load process..."
 
@@ -69,11 +75,12 @@ fi
 echo "ETL process completed successfully!"
 
 
+
 # Step 4: Add the cron job
 echo "Scheduling the script to run daily at 12:00 AM..."
 
 # Get the current script path
-script_path="$(cde_linux_git_assignment/etl_script "$0")"
+script_path="$(etl_script.sh "$0")"
 
 # Check if the cron job already exists
 (crontab -l | grep -F "$script_path") || (crontab -l ; echo "0 0 * * * $script_path >> logs/etl_script.log 2>&1") | crontab -
