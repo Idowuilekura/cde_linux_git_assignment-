@@ -1,4 +1,3 @@
-
 # Individual Assignment
 You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEngineers infrastructure is based on the Linux Operating System. Your manager has tasked you with the responsibility of managing the company’s data infrastructure and version control tool.
 
@@ -39,7 +38,9 @@ For this, you need to work in groups of three (you will be shared into groups). 
 Kindly drop your name, email(used to register for the Bootcamp) and github account username on this [link](https://docs.google.com/forms/d/1HvIx83UFEkVX1Uqnddk3_Tg0IkpvvGk4DJaQY8YjUgA/edit)
 
 **N.B** Both Personal and Group Assignment are due in 1 week (the 5th of September 2024)
-Submit the assignment(for the email section, use the Email used to register for the Bootcamp) with this [Assignment Submission Link](https://docs.google.com/forms/d/15Gm-56XhsAvzed0cRV-gBFEG8xaTl3egmG-iPJWz5X0/edit). I wish you all Goodluck.
+Submit the personal assignment(for the email section, use the Email used to register for the Bootcamp) with this [Assignment Submission Link](https://docs.google.com/forms/d/15Gm-56XhsAvzed0cRV-gBFEG8xaTl3egmG-iPJWz5X0/edit). I wish you all Goodluck.
 
+
+**Group Assignment Submission Link, has been shared with those who indicated interest and submitted the form**
 
 
