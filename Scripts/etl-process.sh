@@ -42,9 +42,3 @@ fi
 
 echo "==== End of load process ===="
 
-
-
-echo "==== Schedule a cron job to run everyday at 12:00am ===="
-
-
-
