@@ -107,7 +107,7 @@ An architectural diagram was created to visualize the ETL process. The diagram o
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/parch-posey-analysis.git
+   git clone https://github.com/johnafariogun/cde_linux_git_assignment-
    ```
 2. **Navigate to the Scripts Directory**:
    ```bash
