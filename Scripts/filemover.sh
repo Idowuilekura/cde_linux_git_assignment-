@@ -1,7 +1,7 @@
 #!/bin/bash
 # Set the source and destination directories
 source_dir="../random"
-dest_dir="json_and_CSV"
+dest_dir="../json_and_CSV"
 
 # Create the destination directory if it doesn't exist
 echo "==== Making destination directory ===="
