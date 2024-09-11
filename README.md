@@ -57,7 +57,7 @@ Submit the assignment(for the email section, use the Email used to register for 
 
 # Solutions: Personal Assignment
 
-## 🌟Get your Linux Environment Ready
+## 🌟Geting your Linux Environment Ready
 It'd be nice to remember that all solution to the personal assignment uses bash scripting, and this means you would be working in a linux environment in order to use bash scripting.
 
 #### Option 1: Use GitBash
