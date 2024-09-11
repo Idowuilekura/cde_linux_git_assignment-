@@ -1,3 +1,16 @@
+# CDE_Linux_Git_Assignment
+
+Description:
+
+This repository contains solutions for the Linux and Git assignment from the Core Data Engineers Bootcamp, a highly intensive program designed to enhance data engineering skills. The assignment focuses on leveraging Linux environments and Git to perform ETL (Extract, Transform, Load) processes, demonstrating proficiency in handling data with command-line tools and version control.
+
+The Assignment is divided into two parts:
+
+- Personal Assignment 
+- Group Assignment
+
+Below is the detailed direction for the Personal and Group assignments. After the description, follows my detailed solutions on how I tackled each step of the assignment questions. 
+
 # Individual Assignment
 You have been hired as a new Data Engineer at CoreDataEngineers. The CoreDataEngineers infrastructure is based on the Linux Operating System. Your manager has tasked you with the responsibility of managing the company’s data infrastructure and version control tool.
 
@@ -38,9 +51,24 @@ For this, you need to work in groups of three (you will be shared into groups). 
 Kindly drop your name, email(used to register for the Bootcamp) and github account username on this [link](https://docs.google.com/forms/d/1HvIx83UFEkVX1Uqnddk3_Tg0IkpvvGk4DJaQY8YjUgA/edit)
 
 **N.B** Both Personal and Group Assignment are due in 1 week (the 5th of September 2024)
-Submit the personal assignment(for the email section, use the Email used to register for the Bootcamp) with this [Assignment Submission Link](https://docs.google.com/forms/d/15Gm-56XhsAvzed0cRV-gBFEG8xaTl3egmG-iPJWz5X0/edit). I wish you all Goodluck.
+Submit the assignment(for the email section, use the Email used to register for the Bootcamp) with this [Assignment Submission Link](https://docs.google.com/forms/d/15Gm-56XhsAvzed0cRV-gBFEG8xaTl3egmG-iPJWz5X0/edit). I wish you all Goodluck.
 
 
-**Group Assignment Submission Link, has been shared with those who indicated interest and submitted the form**
 
+# Solutions
+
+## Personal Assignment
+The solution to the personal assignemnt and the detailed process following the creation of the bash scripts can be found thus:
+
+- [Getting Your Linux Environment Ready](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Getting_your_Linux_Environment_Ready.md)
+- [Question 1 - Bash Script for the ETL Process](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_1%3ABash_Script_for_the_ETL_Process.md)
+- [Question 2 - Bash Script for the Cron Job](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_2%3ABash_Scipt_for_Cron_Jobs.md)
+- [Question 3 - Bash Script for moving json and CSV files](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_3%3ABash_Script_for_moving_json_and_CSV_files.md)
+- [Question 4A - Bash Script for moving CSV files to PostgreSQL Database](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_4A%3ABash_Script_for_Moving_CSV_files_to_PostgreSQL_Database.md)
+- [Question 4B - SQL Scripts for answering the questions posed by the manager; Ayoola](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/Bash_Scripts_Creation-Detailed_Process/Solution_4B%3ASQL_Scripts.md)
+- [ETL Pipeline Architectural Diagram](https://github.com/Chisomnwa/CDE_Linux_Git_Assignment/blob/solution_branch/ETL%20Pipeline%20Architectural%20Diagram.png)
+
+
+## Group Assignment
+The group assignment solution has been documented in this seperate repository [here](https://github.com/femmyte/data-ninjas). All the group members including me contributed to it.
 
