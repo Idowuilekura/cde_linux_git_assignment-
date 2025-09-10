@@ -1,0 +1,156 @@
+=== EXTRACT PHASE ===
+/home/kenechukwu
+/mnt/c/users/Kenechukwu/Documents/assignment/assignment.sh: line 10: cd: /home/kenechukwu/Documents/: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0 7876k    0 10155    0     0   4869      0  0:27:36  0:00:02  0:27:34  4870  1 7876k    1  140k    0     0  47450      0  0:02:49  0:00:03  0:02:46 47460  4 7876k    4  323k    0     0  78054      0  0:01:43  0:00:04  0:01:39 78080  6 7876k    6  501k    0     0  99362      0  0:01:21  0:00:05  0:01:16 99381  8 7876k    8  640k    0     0   105k      0  0:01:14  0:00:06  0:01:08  131k 10 7876k   10  840k    0     0   119k      0  0:01:05  0:00:07  0:00:58  168k 13 7876k   13 1039k    0     0   129k      0  0:01:00  0:00:08  0:00:52  179k 14 7876k   14 1161k    0     0   129k      0  0:01:00  0:00:08  0:00:52  177k 17 7876k   17 1361k    0     0   134k      0  0:00:58  0:00:10  0:00:48  173k 19 7876k   19 1522k    0     0   136k      0  0:00:57  0:00:11  0:00:46  173k 22 7876k   22 1738k    0     0   143k      0  0:00:54  0:00:12  0:00:42  175k 24 7876k   24 1922k    0     0   147k      0  0:00:53  0:00:13  0:00:40  175k 26 7876k   26 2081k    0     0   147k      0  0:00:53  0:00:14  0:00:39  179k 28 7876k   28 2257k    0     0   148k      0  0:00:53  0:00:15  0:00:38  176k 31 7876k   31 2445k    0     0   152k      0  0:00:51  0:00:16  0:00:35  187k 32 7876k   32 2556k    0     0   150k      0  0:00:52  0:00:17  0:00:35  167k 35 7876k   35 2773k    0     0   153k      0  0:00:51  0:00:18  0:00:33  169k 36 7876k   36 2909k    0     0   152k      0  0:00:51  0:00:19  0:00:32  164k 38 7876k   38 3069k    0     0   153k      0  0:00:51  0:00:20  0:00:31  168k 41 7876k   41 3276k    0     0   154k      0  0:00:51  0:00:21  0:00:30  159k 42 7876k   42 3356k    0     0   152k      0  0:00:51  0:00:21  0:00:30  161k 44 7876k   44 3476k    0     0   151k      0  0:00:52  0:00:22  0:00:30  143k 47 7876k   47 3749k    0     0   155k      0  0:00:50  0:00:24  0:00:26  167k 49 7876k   49 3893k    0     0   154k      0  0:00:50  0:00:25  0:00:25  160k 51 7876k   51 4045k    0     0   155k      0  0:00:50  0:00:26  0:00:24  159k 53 7876k   53 4205k    0     0   155k      0  0:00:50  0:00:27  0:00:23  166k 55 7876k   55 4380k    0     0   156k      0  0:00:50  0:00:28  0:00:22  178k 57 7876k   57 4564k    0     0   156k      0  0:00:50  0:00:29  0:00:21  164k 60 7876k   60 4762k    0     0   158k      0  0:00:49  0:00:30  0:00:19  178k 63 7876k   63 4978k    0     0   160k      0  0:00:49  0:00:30  0:00:19  189k 66 7876k   66 5217k    0     0   163k      0  0:00:48  0:00:32  0:00:16  205k 68 7876k   68 5433k    0     0   164k      0  0:00:47  0:00:32  0:00:15  214k 72 7876k   72 5681k    0     0   166k      0  0:00:47  0:00:34  0:00:13  217k 73 7876k   73 5798k    0     0   165k      0  0:00:47  0:00:34  0:00:13  209k 75 7876k   75 5974k    0     0   166k      0  0:00:47  0:00:35  0:00:12  199k 78 7876k   78 6150k    0     0   165k      0  0:00:47  0:00:37  0:00:10  182k 80 7876k   80 6303k    0     0   164k      0  0:00:47  0:00:38  0:00:09  164k 81 7876k   81 6438k    0     0   164k      0  0:00:47  0:00:39  0:00:08  153k 83 7876k   83 6566k    0     0   163k      0  0:00:48  0:00:40  0:00:08  150k 85 7876k   85 6734k    0     0   164k      0  0:00:47  0:00:41  0:00:06  150k 87 7876k   87 6879k    0     0   163k      0  0:00:48  0:00:42  0:00:06  147k 89 7876k   89 7039k    0     0   163k      0  0:00:48  0:00:43  0:00:05  149k 90 7876k   90 7167k    0     0   162k      0  0:00:48  0:00:44  0:00:04  143k 92 7876k   92 7271k    0     0   161k      0  0:00:48  0:00:45  0:00:03  140k 93 7876k   93 7399k    0     0   160k      0  0:00:49  0:00:46  0:00:03  130k 96 7876k   96 7581k    0     0   160k      0  0:00:49  0:00:47  0:00:02  134k 97 7876k   97 7677k    0     0   159k      0  0:00:49  0:00:48  0:00:01  127k 98 7876k   98 7781k    0     0   158k      0  0:00:49  0:00:49 --:--:--  128k100 7876k  100 7876k    0     0   158k      0  0:00:49  0:00:49 --:--:--  128k
+The file downloaded successfully.
+
+=== TRANSFORM PHASE ===
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2023,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,930995,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,821630,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,84354,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,25010,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,832964,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,55267,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,7426,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,30814,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,147663,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+Column replaced, selected and saved in file successfully.
+
+=== LOAD PHASE ===
+File saved successfully to Gold directory
+
+=== PROCESS COMPLETED ===
+ETL pipeline finished successfully!
+=== EXTRACT PHASE ===
+/home/kenechukwu
+/mnt/c/users/Kenechukwu/Documents/assignment/assignment.sh: line 10: cd: /home/kenechukwu/Documents/: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  6 7876k    6  512k    0     0   193k      0  0:00:40  0:00:02  0:00:38  194k 97 7876k   97 7704k    0     0  2117k      0  0:00:03  0:00:03 --:--:-- 2118k100 7876k  100 7876k    0     0  2126k      0  0:00:03  0:00:03 --:--:-- 2127k
+The file downloaded successfully.
+
+=== TRANSFORM PHASE ===
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2023,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,930995,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,821630,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,84354,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,25010,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,832964,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,55267,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,7426,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,30814,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,147663,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+Column replaced, selected and saved in file successfully.
+
+=== LOAD PHASE ===
+File saved successfully to Gold directory
+
+=== PROCESS COMPLETED ===
+ETL pipeline finished successfully!
+=== EXTRACT PHASE ===
+/home/kenechukwu
+/mnt/c/users/Kenechukwu/Documents/assignment/assignment.sh: line 10: cd: /home/kenechukwu/Documents/: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 7876k    0  3918    0     0   6837      0  0:19:39 --:--:--  0:19:39  6910 35 7876k   35 2800k    0     0  1845k      0  0:00:04  0:00:01  0:00:03 1853k 83 7876k   83 6575k    0     0  2612k      0  0:00:03  0:00:02  0:00:01 2618k100 7876k  100 7876k    0     0  2739k      0  0:00:02  0:00:02 --:--:-- 2745k
+The file downloaded successfully.
+
+=== TRANSFORM PHASE ===
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2023,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,930995,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,821630,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,84354,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,25010,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,832964,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,55267,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,7426,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,30814,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,147663,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+Column replaced, selected and saved in file successfully.
+
+=== LOAD PHASE ===
+File saved successfully to Gold directory
+
+=== PROCESS COMPLETED ===
+ETL pipeline finished successfully!
+=== EXTRACT PHASE ===
+/home/kenechukwu
+/mnt/c/users/Kenechukwu/Documents/assignment/assignment.sh: line 10: cd: /home/kenechukwu/Documents/: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 7876k    0 35242    0     0  50205      0  0:02:40 --:--:--  0:02:40 50273 29 7876k   29 2304k    0     0  1363k      0  0:00:05  0:00:01  0:00:04 1364k 72 7876k   72 5695k    0     0  2117k      0  0:00:03  0:00:02  0:00:01 2119k100 7876k  100 7876k    0     0  2390k      0  0:00:03  0:00:03 --:--:-- 2392k
+The file downloaded successfully.
+
+=== TRANSFORM PHASE ===
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2023,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,930995,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,821630,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,84354,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,25010,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,832964,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,55267,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,7426,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,30814,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,147663,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+Column replaced, selected and saved in file successfully.
+
+=== LOAD PHASE ===
+File saved successfully to Gold directory
+
+=== PROCESS COMPLETED ===
+ETL pipeline finished successfully!
+=== EXTRACT PHASE ===
+/home/kenechukwu
+/mnt/c/users/Kenechukwu/Documents/assignment/assignment.sh: line 10: cd: /home/kenechukwu/Documents/: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 16 7876k   16 1295k    0     0  1287k      0  0:00:06  0:00:01  0:00:05 1286k100 7876k  100 7876k    0     0  3973k      0  0:00:01  0:00:01 --:--:-- 3972k
+The file downloaded successfully.
+
+=== TRANSFORM PHASE ===
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2023,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,930995,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,821630,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,84354,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,25010,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,832964,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,55267,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,7426,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,30814,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,147663,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+Column replaced, selected and saved in file successfully.
+
+=== LOAD PHASE ===
+File saved successfully to Gold directory
+
+=== PROCESS COMPLETED ===
+ETL pipeline finished successfully!
+=== EXTRACT PHASE ===
+/home/kenechukwu
+/mnt/c/users/Kenechukwu/Documents/assignment/assignment.sh: line 10: cd: /home/kenechukwu/Documents/: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  2 7876k    2  185k    0     0  84637      0  0:01:35  0:00:02  0:01:33 84651 40 7876k   40 3199k    0     0  1000k      0  0:00:07  0:00:03  0:00:04 1000k 75 7876k   75 5967k    0     0  1388k      0  0:00:05  0:00:04  0:00:01 1388k 94 7876k   94 7455k    0     0  1434k      0  0:00:05  0:00:05 --:--:-- 1499k100 7876k  100 7876k    0     0  1449k      0  0:00:05  0:00:05 --:--:-- 1886k
+The file downloaded successfully.
+
+=== TRANSFORM PHASE ===
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2023,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,930995,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H04,"Sales, government funding, grants and subsidies",Financial performance,821630,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H05,"Interest, dividends and donations",Financial performance,84354,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H07,Non-operating income,Financial performance,25010,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H08,Total expenditure,Financial performance,832964,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H09,Interest and donations,Financial performance,55267,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H10,Indirect taxes,Financial performance,7426,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H11,Depreciation,Financial performance,30814,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+2023,Level 1,99999,All industries,Dollars (millions),H12,Salaries and wages paid,Financial performance,147663,"ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+Column replaced, selected and saved in file successfully.
+
+=== LOAD PHASE ===
+File saved successfully to Gold directory
+
+=== PROCESS COMPLETED ===
+ETL pipeline finished successfully!

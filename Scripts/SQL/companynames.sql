@@ -1,0 +1,1 @@
+select name from accounts where (primary_poc like '%C' or primary_poc like '%W') and (primary_poc like '%ana%' or primary_poc like '%Ana%') and primary_poc not like '%eana%';

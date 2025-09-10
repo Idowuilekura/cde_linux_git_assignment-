@@ -1,0 +1,1 @@
+select * from orders where standard_qty = 0 and gloss_qty > 4000 or poster_qty > 4000
