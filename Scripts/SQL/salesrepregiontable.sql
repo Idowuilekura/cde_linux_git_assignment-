@@ -1,0 +1,1 @@
+select a.name region_name, b.name sales_rep_name, c.name accounts into regionaccountsofsalesreps from region a join sales_reps b on a.id = b.region_id join accounts c on b.id = c.sales_rep_id order by c.name
